@@ -1,0 +1,20 @@
+
+.aclass {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler {
+    font-size: 24px;
+}
